@@ -9,11 +9,11 @@
     align-items: stretch;
  }
 
-/* .mg-row > .col-flex > .box > * {
+.mg-row > .col-flex > .box > * {
    display: flex;
-} */
+}
 
-/* .mg-row header > * {
+.mg-row header > * {
     display: block;
     width: 100%;
-} */
+}
