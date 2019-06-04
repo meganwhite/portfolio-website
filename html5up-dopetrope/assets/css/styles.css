@@ -1,0 +1,15 @@
+.mg-row > .col-flex {
+    display: flex;
+}
+
+..mg-row > .col-flex > .box {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    align-items: stretch;
+ }
+
+.mg-row > .col-flex > .box > * {
+   display: flex;
+}
+
