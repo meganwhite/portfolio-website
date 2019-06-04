@@ -1597,9 +1597,11 @@ input, select, textarea {
 			font-size: 1.25em;
 		}
 
+
 		.box footer ul.actions {
 			margin-bottom: 0;
 		}
+
 
 /* Button */
 
@@ -1697,6 +1699,7 @@ input, select, textarea {
 		.image img {
 			display: block;
 			width: 100%;
+			height: 20rem;
 		}
 
 		.image.centered {
@@ -2156,7 +2159,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/doubleme.jpg");
+		background: url("../../images/doubleme.jpg");
 		background-position: center center;
 		background-size: 100%;
 		background-repeat: no-repeat;
